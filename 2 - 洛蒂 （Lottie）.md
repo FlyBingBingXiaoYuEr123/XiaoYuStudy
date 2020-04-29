@@ -62,8 +62,8 @@ Lottie是基于CALayer的动画, 所有的路径预先在AE中计算好, 转换�
 [https://www.ubuuk.com/article/384.html ](https://www.ubuuk.com/article/384.html)   
 AE插件安装与使用详见上述链接地址。
 
-OC版本:
-  [https://blog.csdn.net/wtj900/article/details/70654652?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-19&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-19](https://blog.csdn.net/wtj900/article/details/70654652?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-19&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-19)
+OC版本:   
+[https://blog.csdn.net/wtj900/article/details/70654652?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-19&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-19](https://blog.csdn.net/wtj900/article/details/70654652?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-19&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-19)
 
-Swift版本和OC版本的区别:
+Swift版本和OC版本的区别:   
 [http://airbnb.io/lottie/#/ios-migration?id=migrating-from-lottie-253objc-gt-30-swift](http://airbnb.io/lottie/#/ios-migration?id=migrating-from-lottie-253objc-gt-30-swift)
